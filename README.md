@@ -18,12 +18,12 @@ Once you have your environment set up, let's move on!
 
 ## There are many ways to run any flutter project available on github , one of them is through the following steps :
 
-1.Open the Github project repository which you want to run on your VsCode .
-2.On the top right corner Fork the project and after that click on the green button representing to download the code.
-3.Now copy the Project Link URL.
-4.Now open the console palette in VsCode and type Git clone on the console palette.
-5.After that paste the project Link URL and press Enter , Select the folder where you want to save the project and now open the project in VsCode.
-6.After all the packages are loaded in VsCode , connect the device and type the command Flutter Run on your terminal and wait for the App to install .
+1.Open the Github project repository which you want to run on your VsCode.  
+2.On the top right corner Fork the project and after that click on the green button representing to download the code.  
+3.Now copy the Project Link URL.  
+4.Now open the console palette in VsCode and type Git clone on the console palette.  
+5.After that paste the project Link URL and press Enter , Select the folder where you want to save the project and now open the project in VsCode.  
+6.After all the packages are loaded in VsCode , connect the device and type the command Flutter Run on your terminal and wait for the App to install.  
 
 ## A few resources I used to do this application
 
