@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650405935711",
+    "project_id": "job-finder-6379e",
+    "storage_bucket": "job-finder-6379e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650405935711:android:3ffc0209a41fbe66e7b9ea",
+        "android_client_info": {
+          "package_name": "com.example.dk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650405935711-tielfq4cqedu4bat7tt787j6ve2bvse2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABZbNqewVpAhbA6jUD0vfoEwyXYNuUY_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650405935711-tielfq4cqedu4bat7tt787j6ve2bvse2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
